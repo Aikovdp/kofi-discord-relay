@@ -1,0 +1,6 @@
+name = "kofi-discord-relay"
+main = "src/index.ts"
+compatibility_date = "2022-05-26"
+
+[vars]
+PUBLIC_MODE = "true"
